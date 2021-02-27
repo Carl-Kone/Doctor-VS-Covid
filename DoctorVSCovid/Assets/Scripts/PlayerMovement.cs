@@ -23,10 +23,16 @@ public class PlayerMovement : MonoBehaviour
       // dealing with the rotation of the player
       float targetangle = Mathf.Atan2(direction.x, direction.z) * Mathf.Rad2Deg + cam.eulerAngles.y;
       transform.rotation = Quaternion.Euler(0f, targetangle, 0f);
-
+      
       Vector3 moveDirection = Quaternion.Euler(0f, targetangle, 0f) * Vector3.forward;
       // move the player
       controller.Move(moveDirection.normalized * speed * Time.deltaTime);
     }
+  }
+
+  private void Start()
+  {
+    //cam = FindObjectOfType<Camera>().transform;
+    cam = GameObject.Find("Main Camera").transform;
   }
 }
