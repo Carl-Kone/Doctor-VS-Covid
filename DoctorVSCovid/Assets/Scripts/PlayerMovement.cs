@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
 {
   public CharacterController controller; // component to move the player
 
-  public float speed = 8f; // speed of movement
+  public float speed = 6f; // speed of movement
 
   public Transform cam; // handles movement of the camera
   
