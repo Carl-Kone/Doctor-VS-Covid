@@ -24,7 +24,6 @@
       <Path>Temp</Path>
       <Path>UserSettings</Path>
       <Path>obj</Path>
-      <Path>testbuild.app</Path>
     </explicitExcludes>
   </component>
 </project>

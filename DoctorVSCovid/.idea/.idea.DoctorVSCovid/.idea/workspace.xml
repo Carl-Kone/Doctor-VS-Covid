@@ -21,14 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d752fe2e-2ca8-4671-8ae3-bee522e96ddb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorVSCovid/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorVSCovid/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorVSCovid/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorVSCovid/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorVSCovid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorVSCovid/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/GroundColor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/GroundColor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Player.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Player.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/HomescreenButtons.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HomescreenButtons.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +47,14 @@
         <option value="$PROJECT_DIR$/Assets/AICommonersMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DoctorManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/HomescreenButtons.cs" />
         <option value="$PROJECT_DIR$/Assets/EnnemyManager.cs" />
         <option value="$PROJECT_DIR$/Assets/EnnemyController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CommonersAI.cs" />
         <option value="$PROJECT_DIR$/Assets/AIGetDoctor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AIGetDoctor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnnemyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VirusMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HomescreenButtons.cs" />
       </list>
     </option>
   </component>
@@ -118,7 +116,12 @@
       <workItem from="1614759568098" duration="174000" />
       <workItem from="1614768601666" duration="690000" />
       <workItem from="1618823053725" duration="9156000" />
-      <workItem from="1619010872104" duration="838000" />
+      <workItem from="1619010872104" duration="1408000" />
+      <workItem from="1619100450774" duration="43000" />
+      <workItem from="1619375363390" duration="223000" />
+      <workItem from="1619427358955" duration="421000" />
+      <workItem from="1619449074407" duration="187000" />
+      <workItem from="1619595314576" duration="618000" />
     </task>
     <servers />
   </component>

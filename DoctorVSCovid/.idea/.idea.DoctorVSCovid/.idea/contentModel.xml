@@ -9,6 +9,7 @@
           <e p="EnnemyManager.cs" t="Include" />
           <e p="HomescreenButtons.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="VirusMovement.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">

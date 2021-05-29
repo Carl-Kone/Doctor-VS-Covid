@@ -8,7 +8,7 @@ public class HomescreenButtons : MonoBehaviour
    
    public void PlayGame() // Loads the scene "Game" when button "Play" is clicked
    {
-      SceneManager.LoadScene("Game");
+      SceneManager.LoadScene("Demo");
    }
 
    public void Quit() // Closes the application when the button "Quit" is clicked
